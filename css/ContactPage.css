@@ -47,6 +47,11 @@ body {
     font-family: 'Arial', sans-serif;
 }
 
+#page-heading {
+    padding-left: 30px;
+    padding-top: 00px;
+}
+
 
 
 .contact-form {
